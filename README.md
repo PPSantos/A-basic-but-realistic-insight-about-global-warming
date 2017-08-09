@@ -9,7 +9,7 @@ Multiple regressions plotted on NASA datasets (Global climate change).<br>
     1.3 Land ice (GreenLand Mass Variation).<br>
     1.4 Sea level.<br>
 2. 3D regresions.<br>
-    2.1 Greenland mass loss and CO2 concentration.<br>
+    2.1 Greenland mass loss and CO2 concentration.<br><br>
 
 ### Dependencies
 * numpy
