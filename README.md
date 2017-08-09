@@ -1,5 +1,6 @@
+![title](img/img.png)
 # A basic but realistic insight about global warming
-Multiple regressions plotted on NASA datasets (Global climate change).
+Multiple regressions plotted on NASA datasets (Global climate change).<br>
 (resources here: https://climate.nasa.gov/).<br>
 
 1. 2D regressions.<br>
